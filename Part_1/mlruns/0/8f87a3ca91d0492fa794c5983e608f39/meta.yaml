@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/utilisateur/Documents/4%20-%20PROJETS%202023/Brief_mlOps/Part_1/mlruns/0/8f87a3ca91d0492fa794c5983e608f39/artifacts
+end_time: 1675952825335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 8f87a3ca91d0492fa794c5983e608f39
+run_uuid: 8f87a3ca91d0492fa794c5983e608f39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675952825304
+status: 3
+tags: []
+user_id: utilisateur
